@@ -2,7 +2,7 @@
 
 This repository showcases a portfolio of neural network implementations built from scratch, demonstrating a deep understanding of fundamental machine learning concepts and advanced architectures. The projects follow Andrej Karpathy's "Neural Networks: Zero to Hero" course, but go beyond simple replication by focusing on the underlying mathematics and engineering principles.
 
-Each of the following jupyter notebooks has an associated blog post I wrote at: [Om's Blog](https://omagrawal.tech/blog.html)
+> Each of the following jupyter notebooks has an associated blog post I wrote at: **[Om's Blog](https://omagrawal.tech/blog.html)**
 
 ## 🎯 Key Skills Demonstrated
 
